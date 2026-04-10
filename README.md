@@ -10,6 +10,8 @@
 
 每个目录都包含 `SKILL.md` 与对应 Python 脚本，可单独打包上传到 AstrBot。
 
+**每个 Skills 对应的 Zip 压缩包已打包在 [Release](https://github.com/cattomgithub/eastmoney-mx-skills-for-astrbot/releases/latest)。**
+
 ## 运行依赖
 
 - Python 3.10+
